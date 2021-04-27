@@ -99,3 +99,5 @@ html ödev 2
 <a href="ikincisayfa.html" target="_blank">
     <h2>Devamı</h2>
 </a>
+
+
