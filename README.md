@@ -1,5 +1,6 @@
 # -dev2
 html ödev 2
+<body>
 <h1>Birkan YOSMA</h1>
 <h2>Hakkımda </h2>
 <p>Merhaba ben Birkan YOSMA Giresunluyum</p>
@@ -99,5 +100,5 @@ html ödev 2
 <a href="ikincisayfa.html" target="_blank">
     <h2>Devamı</h2>
 </a>
-
+</body>
 
